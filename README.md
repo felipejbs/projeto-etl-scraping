@@ -1,4 +1,4 @@
-# projetoscrapingaovivo
+# projeto ETL utilizando scraping para coleta de dados
 
 Para rodar o web scraping
 
